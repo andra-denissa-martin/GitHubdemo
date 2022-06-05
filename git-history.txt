@@ -1,0 +1,5 @@
+The first is the original "Initial commit"
+The .gitignore file is added with the second commit (the first is the original "Initial commit").
+New file data/lorem.txt is added to the repo with the third commit.
+The fourth commit adds three lines to data/lorem.txt.
+The fifth commit replaces data/lorem.txt with data/lorem_ipsum.txt.
